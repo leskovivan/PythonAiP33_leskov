@@ -1,0 +1,25 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# *
+# Виртуальное окружение (venv)
+Include/
+Lib/
+Scripts/
+share/
+etc/
+pyvenv.cfg
+
+# Кэш Python и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Среда разработки (VS Code)
+.vscode/
+
+# Системные файлы macOS / Windows
+.DS_Store
+Thumbs.db
